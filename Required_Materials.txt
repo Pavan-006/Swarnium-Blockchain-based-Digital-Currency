@@ -1,0 +1,16 @@
+Youtube tutorial 
+
+1. https://youtu.be/XEBEmj5Z_Tc?si=3KBNeXglg32fM-Om
+2. https://www.youtube.com/watch?v=37ZOZK2C_YI&pp=ygUybmF0aW9uYWwgZGlnaXRhbCBjdXJyZW5jeSBwcm9qZWN0IHVzaW5nIGJsb2NrY2hhaW4%3D
+4. https://www.youtube.com/watch?v=NOjST7ny4oY&pp=ygUTY3J5cHRvIGNvaW4gcHJvamVjdA%3D%3D
+5. https://www.youtube.com/watch?v=RlCkuBsnxHs
+
+GitHub projects
+
+6. https://github.com/applied-crypto/cbdc
+7. https://www.ibm.com/think/topics/blockchain-for-cbdc
+8. https://github.com/bitcoinj
+9. https://github.com/lukasmasuch/best-of-crypto?tab=readme-ov-file#cryptocurrencies
+
+ Books : 
+10. https://books.google.co.in/books/about/Mastering_Blockchain.html?id=Z8QIEAAAQBAJ&redir_esc=y
